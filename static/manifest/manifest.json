@@ -1,0 +1,60 @@
+{
+  "icons": [
+    {
+      "src": "/static/manifest/icons/ios/icon_1024x1024.f7dc6481f7854a0dc8c11c3290326227.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/ios/icon_180x180.8d7e87423ec3e73b4ca6acc9e33ed5d9.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_512x512.7b7404bcdab38d2d0cfe51749135e833.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_384x384.4d7f236fbc38f8c443dfdb43d6d94b21.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_256x256.d84493fa4c00d2951712b06f4dba30f9.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_192x192.2079a50338ad32891ba8bd352ccc0e25.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_128x128.80cfc38ce5685c787d5e46ec9c38987e.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/manifest/icons/common/icon_96x96.237f213870fe28edf64547b8167ba2c8.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "Fabrizzio-zampieri",
+  "short_name": "Fabrizzio-zampieri",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "black",
+  "description": "Fabrizzio Zampieri — Product Designer",
+  "theme_color": "black"
+}

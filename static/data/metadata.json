@@ -1,0 +1,84 @@
+{
+   "/work/oneskin/": {
+      "industry": "Biotech",
+      "link": "https://www.oneskin.co",
+      "location": "San Francisco, CA",
+      "mode": "Full Time Job",
+      "role": "Senior Product Designer",
+      "tech": ["Angular", "RxJS", "TypeScript", "Kubernetes"],
+      "type": "Biotech",
+      "year": "2020 - Present"
+   },
+   "/work/nullform/": {
+      "industry": "Software Company",
+      "link": "https://www.beautydate.com",
+      "location": "Curitiba, PR - Brazil",
+      "mode": "Founder",
+      "role": "Product Desinger",
+      "tech": ["React", "Redux", "Redux Saga", "TypeScript", "GSAP", "WebGL", "GLSL", "AWS", "Lambda", "Video API"],
+      "type": "Mobile, CRM  Website, Motion and Interction Design",
+      "year": "2014"
+   },
+   "/work/invisibly/": {
+      "industry": "Advertising and Digital Media",
+      "link": "https://www.invisibly.com",
+      "location": "Remote",
+      "mode": "Commisioned",
+      "role": "Lead UI Engineer",
+      "tech": ["React", "RxJS", "GSAP", "Storybook"],
+      "type": "CMS Website and Blog",
+      "year": "2020"
+   },
+   "/work/netflix/": {
+      "industry": "Production Company",
+      "location": "San Francisco, CA / San Francisco, CA",
+      "link": "https://www.netflix.com",
+      "mode": "Full Time Job",
+      "role": "Senior UI Engineer",
+      "tech": ["Design Systems", "GraphQL", "Node.js", "React", "Redux", "Redux Saga", "TypeScript", "Audio", "Video", "WebGL", "WebWorkers"],
+      "type": "Web Applications",
+      "year": "2016 - 2020"
+   },
+   "/work/adidas/": {
+      "industry": "Retail",
+      "link": "https://adidas-ultraboost-19.nullform.studio",
+      "location": "New York, NY",
+      "role": "UI Engineer",
+      "tech": ["React", "Redux", "WebGL", "Redux Saga", "GSAP", "GLSL"],
+      "mode": "Commissioned",
+      "type": "Web Application",
+      "year": "2019"
+   },
+   "/work/mountain-nazca/": {
+      "industry": "Venture Capital / Company Builder",
+      "link": "https://www.mountainnazca.com",
+      "location": "Mexico City",
+      "mode": "Full Time Job",
+      "role": "Lead Software Engineer",
+      "type": "Mobile and Web Applications",
+      "tech": ["AWS", "Backbone", "Golang", "React", "Redux", "GSAP", "Node.js"],
+      "year": "2013 - 2016"
+   },
+   "/work/revlon/": {
+      "industry": "Beauty & Personal Care",
+      "link": "https://revlon.com",
+      "location": "Mexico City",
+      "mode": "Freelance",
+      "role": "Full Stack Developer",
+      "tech": ["Swift", "Redux", "Node.js", "Electron", "Raspberry PI Player", "Facebook Connect", "FaceDetection API"],
+      "type": "Interactive Installation",
+      "year": "2015"
+   },
+   "/work/nike/": {
+      "industry": "Footwear manufacturing company",
+      "link": "https://www.werunmexico.com",
+      "location": "Mexico City",
+      "mode": "Freelance",
+      "role": "Creative Frontend Developer",
+      "tech": ["Core.js", "jQuery", "Node.js", "Video", "Twitter API"],
+      "type": "Website, Facebook App and Interactive Installation",
+      "year": "2012 - 2013"
+   },
+   "/about/": {
+   }
+}
